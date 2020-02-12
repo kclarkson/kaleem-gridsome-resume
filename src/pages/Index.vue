@@ -28,14 +28,11 @@ export default {
   components: {
     About,
     Experience,
-    Education,
-    Skills,
-    Interests,
-    Awards
+    Education
   },
   metaInfo: {
-    title: "Gridsome Starter Resume",
-    titleTemplate: "%s - Create your resume quick and easy!"
+    title: "Kaleem Clarkson",
+    titleTemplate: "%s - A Drupal Front-End Developer"
   }
 };
 </script>
